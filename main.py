@@ -1,6 +1,8 @@
 import random
 import telebot
 
+from config import *
+
 token = token
 
 bot = telebot.TeleBot(token)
